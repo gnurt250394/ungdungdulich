@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ứng dụng du lịch</string>
+    <string name="txt_infoLogin"> ĐĂNG NHẬP</string>
+    <string name="txt_nameLogin">Tên đăng nhập</string>
+    <string name="txt_passlogin">Mật khẩu</string>
+    <string name="txt_Dangky">ĐĂNG KÝ</string>
+    <string name="txt_qmk">QUÊN MẬT KHẨU </string>
+    <string name="gachchan">\u</string>
+    <string name="txt_nameDK">Nhập tên tài khoản</string>
+    <string name="txt_passDK">Nhập mật khẩu</string>
+    <string name="bt_Login">ĐĂNG NHẬP</string>
+    <string name="Imbt_fb">Facebook</string>
+    <string name="Imbt_gg">Google</string>
+    <string name="txt_tenDK">Họ và tên</string>
+    <string name="txt_gioitinhDK">Giới tính</string>
+    <string name="txt_dateDK">Ngày sinh</string>
+    <string name="txt_EmailDK">Địa chỉ email</string>
+    <string name="rbt_boyDK">Nam</string>
+    <string name="rbt_girlDK">Nữ</string>
+    <string name="txt_SdtDK">Số điện thoại</string>
+    <string name="txt_Home">Trang chủ</string>
+    <string name="cb_LMK">Ghi nhớ đăng nhập</string>
+    <string name="txt_Qmkmaxacnhan">Nhập mã xác nhận</string>
+</resources>
